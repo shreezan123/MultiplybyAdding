@@ -1,0 +1,558 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C24AdditionToMultiplication14ViewController"
+provides-member:
+- ["C24AdditionToMultiplication14ViewController", ""]
+provides-dynamic-lookup:
+- "apprestart"
+- "addbutton"
+- "currentsum"
+- "playbutton"
+- "applogo"
+- "timestomultiply"
+- "onclickplaybutton"
+- "onclickaddbutton"
+- "counter"
+- "updatinglabel"
+- "numberinputfield"
+- "sumdisplay"
+- "startingvalue"
+depends-top-level:
+- !private "!="
+- "String"
+- "ViewController"
+- !private "BooleanLiteralType"
+- !private "+"
+- "UIButton"
+- "UIViewController"
+- "UIImageView"
+- !private "&&"
+- !private "+="
+- "UILabel"
+- "Int"
+- "StringLiteralType"
+- !private "<"
+- !private "=="
+- "UITextField"
+- !private "UnicodeScalarType"
+depends-member:
+- !private ["Ps9AnyObject", "Int"]
+- ["Ps9AnyObject", "addbutton"]
+- ["Ps9AnyObject", "applogo"]
+- ["Ps9AnyObject", "apprestart"]
+- ["Ps9AnyObject", "counter"]
+- ["Ps9AnyObject", "currentsum"]
+- !private ["Ps9AnyObject", "hidden"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "numberinputfield"]
+- ["Ps9AnyObject", "onclickaddbutton"]
+- ["Ps9AnyObject", "onclickplaybutton"]
+- ["Ps9AnyObject", "playbutton"]
+- ["Ps9AnyObject", "startingvalue"]
+- ["Ps9AnyObject", "sumdisplay"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "timestomultiply"]
+- ["Ps9AnyObject", "updatinglabel"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps22BidirectionalIndexType", "init"]
+- !private ["Ps21BitwiseOperationsType", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "Int"]
+- ["Ps11CVarArgType", "addbutton"]
+- ["Ps11CVarArgType", "applogo"]
+- ["Ps11CVarArgType", "apprestart"]
+- ["Ps11CVarArgType", "counter"]
+- ["Ps11CVarArgType", "currentsum"]
+- !private ["Ps11CVarArgType", "hidden"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "numberinputfield"]
+- ["Ps11CVarArgType", "onclickaddbutton"]
+- ["Ps11CVarArgType", "onclickplaybutton"]
+- ["Ps11CVarArgType", "playbutton"]
+- ["Ps11CVarArgType", "startingvalue"]
+- ["Ps11CVarArgType", "sumdisplay"]
+- !private ["Ps11CVarArgType", "text"]
+- ["Ps11CVarArgType", "timestomultiply"]
+- ["Ps11CVarArgType", "updatinglabel"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Int"]
+- ["Ps28CustomDebugStringConvertible", "addbutton"]
+- ["Ps28CustomDebugStringConvertible", "applogo"]
+- ["Ps28CustomDebugStringConvertible", "apprestart"]
+- ["Ps28CustomDebugStringConvertible", "counter"]
+- ["Ps28CustomDebugStringConvertible", "currentsum"]
+- !private ["Ps28CustomDebugStringConvertible", "hidden"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "numberinputfield"]
+- ["Ps28CustomDebugStringConvertible", "onclickaddbutton"]
+- ["Ps28CustomDebugStringConvertible", "onclickplaybutton"]
+- ["Ps28CustomDebugStringConvertible", "playbutton"]
+- ["Ps28CustomDebugStringConvertible", "startingvalue"]
+- ["Ps28CustomDebugStringConvertible", "sumdisplay"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "timestomultiply"]
+- ["Ps28CustomDebugStringConvertible", "updatinglabel"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "Int"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "addbutton"]
+- ["Ps23CustomStringConvertible", "applogo"]
+- ["Ps23CustomStringConvertible", "apprestart"]
+- ["Ps23CustomStringConvertible", "counter"]
+- ["Ps23CustomStringConvertible", "currentsum"]
+- !private ["Ps23CustomStringConvertible", "hidden"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "numberinputfield"]
+- ["Ps23CustomStringConvertible", "onclickaddbutton"]
+- ["Ps23CustomStringConvertible", "onclickplaybutton"]
+- ["Ps23CustomStringConvertible", "playbutton"]
+- ["Ps23CustomStringConvertible", "startingvalue"]
+- ["Ps23CustomStringConvertible", "sumdisplay"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "timestomultiply"]
+- ["Ps23CustomStringConvertible", "updatinglabel"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "Int"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "addbutton"]
+- ["Ps9Equatable", "applogo"]
+- ["Ps9Equatable", "apprestart"]
+- ["Ps9Equatable", "counter"]
+- ["Ps9Equatable", "currentsum"]
+- !private ["Ps9Equatable", "hidden"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "numberinputfield"]
+- ["Ps9Equatable", "onclickaddbutton"]
+- ["Ps9Equatable", "onclickplaybutton"]
+- ["Ps9Equatable", "playbutton"]
+- ["Ps9Equatable", "startingvalue"]
+- ["Ps9Equatable", "sumdisplay"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "timestomultiply"]
+- ["Ps9Equatable", "updatinglabel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps16ForwardIndexType", "init"]
+- !private ["Ps8Hashable", "Int"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "addbutton"]
+- ["Ps8Hashable", "applogo"]
+- ["Ps8Hashable", "apprestart"]
+- ["Ps8Hashable", "counter"]
+- ["Ps8Hashable", "currentsum"]
+- !private ["Ps8Hashable", "hidden"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "numberinputfield"]
+- ["Ps8Hashable", "onclickaddbutton"]
+- ["Ps8Hashable", "onclickplaybutton"]
+- ["Ps8Hashable", "playbutton"]
+- ["Ps8Hashable", "startingvalue"]
+- ["Ps8Hashable", "sumdisplay"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "timestomultiply"]
+- ["Ps8Hashable", "updatinglabel"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["Si", "init"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "init"]
+- !private ["Ps25IntegerLiteralConvertible", "init"]
+- !private ["Ps11IntegerType", "init"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "Int"]
+- ["PSo8NSCoding", "addbutton"]
+- ["PSo8NSCoding", "applogo"]
+- ["PSo8NSCoding", "apprestart"]
+- ["PSo8NSCoding", "counter"]
+- ["PSo8NSCoding", "currentsum"]
+- !private ["PSo8NSCoding", "hidden"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "numberinputfield"]
+- ["PSo8NSCoding", "onclickaddbutton"]
+- ["PSo8NSCoding", "onclickplaybutton"]
+- ["PSo8NSCoding", "playbutton"]
+- ["PSo8NSCoding", "startingvalue"]
+- ["PSo8NSCoding", "sumdisplay"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "timestomultiply"]
+- ["PSo8NSCoding", "updatinglabel"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "Int"]
+- ["PSo26NSExtensionRequestHandling", "addbutton"]
+- ["PSo26NSExtensionRequestHandling", "applogo"]
+- ["PSo26NSExtensionRequestHandling", "apprestart"]
+- ["PSo26NSExtensionRequestHandling", "counter"]
+- ["PSo26NSExtensionRequestHandling", "currentsum"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "numberinputfield"]
+- ["PSo26NSExtensionRequestHandling", "onclickaddbutton"]
+- ["PSo26NSExtensionRequestHandling", "onclickplaybutton"]
+- ["PSo26NSExtensionRequestHandling", "playbutton"]
+- ["PSo26NSExtensionRequestHandling", "startingvalue"]
+- ["PSo26NSExtensionRequestHandling", "sumdisplay"]
+- ["PSo26NSExtensionRequestHandling", "timestomultiply"]
+- ["PSo26NSExtensionRequestHandling", "updatinglabel"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UITextField"]
+- ["CSo8NSObject", "addbutton"]
+- ["CSo8NSObject", "applogo"]
+- ["CSo8NSObject", "apprestart"]
+- ["CSo8NSObject", "counter"]
+- ["CSo8NSObject", "currentsum"]
+- !private ["CSo8NSObject", "hidden"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "numberinputfield"]
+- ["CSo8NSObject", "onclickaddbutton"]
+- ["CSo8NSObject", "onclickplaybutton"]
+- ["CSo8NSObject", "playbutton"]
+- ["CSo8NSObject", "startingvalue"]
+- ["CSo8NSObject", "sumdisplay"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "timestomultiply"]
+- ["CSo8NSObject", "updatinglabel"]
+- !private ["PSo16NSObjectProtocol", "Int"]
+- ["PSo16NSObjectProtocol", "addbutton"]
+- ["PSo16NSObjectProtocol", "applogo"]
+- ["PSo16NSObjectProtocol", "apprestart"]
+- ["PSo16NSObjectProtocol", "counter"]
+- ["PSo16NSObjectProtocol", "currentsum"]
+- !private ["PSo16NSObjectProtocol", "hidden"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "numberinputfield"]
+- ["PSo16NSObjectProtocol", "onclickaddbutton"]
+- ["PSo16NSObjectProtocol", "onclickplaybutton"]
+- ["PSo16NSObjectProtocol", "playbutton"]
+- ["PSo16NSObjectProtocol", "startingvalue"]
+- ["PSo16NSObjectProtocol", "sumdisplay"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "timestomultiply"]
+- ["PSo16NSObjectProtocol", "updatinglabel"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["Sq", "deinit"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["Ps21RandomAccessIndexType", "init"]
+- !private ["Ps17SignedIntegerType", "init"]
+- !private ["Ps16SignedNumberType", "init"]
+- !private ["Ps10Streamable", "init"]
+- !private ["Ps10Strideable", "init"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "hidden"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "hidden"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "Int"]
+- ["PSo21UIAppearanceContainer", "addbutton"]
+- ["PSo21UIAppearanceContainer", "applogo"]
+- ["PSo21UIAppearanceContainer", "apprestart"]
+- ["PSo21UIAppearanceContainer", "counter"]
+- ["PSo21UIAppearanceContainer", "currentsum"]
+- !private ["PSo21UIAppearanceContainer", "hidden"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "numberinputfield"]
+- ["PSo21UIAppearanceContainer", "onclickaddbutton"]
+- ["PSo21UIAppearanceContainer", "onclickplaybutton"]
+- ["PSo21UIAppearanceContainer", "playbutton"]
+- ["PSo21UIAppearanceContainer", "startingvalue"]
+- ["PSo21UIAppearanceContainer", "sumdisplay"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "timestomultiply"]
+- ["PSo21UIAppearanceContainer", "updatinglabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "hidden"]
+- !private ["PSo18UIContentContainer", "Int"]
+- ["PSo18UIContentContainer", "addbutton"]
+- ["PSo18UIContentContainer", "applogo"]
+- ["PSo18UIContentContainer", "apprestart"]
+- ["PSo18UIContentContainer", "counter"]
+- ["PSo18UIContentContainer", "currentsum"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "numberinputfield"]
+- ["PSo18UIContentContainer", "onclickaddbutton"]
+- ["PSo18UIContentContainer", "onclickplaybutton"]
+- ["PSo18UIContentContainer", "playbutton"]
+- ["PSo18UIContentContainer", "startingvalue"]
+- ["PSo18UIContentContainer", "sumdisplay"]
+- ["PSo18UIContentContainer", "timestomultiply"]
+- ["PSo18UIContentContainer", "updatinglabel"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "hidden"]
+- !private ["CSo9UIControl", "text"]
+- !private ["PSo17UICoordinateSpace", "hidden"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "hidden"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "Int"]
+- ["PSo18UIFocusEnvironment", "addbutton"]
+- ["PSo18UIFocusEnvironment", "applogo"]
+- ["PSo18UIFocusEnvironment", "apprestart"]
+- ["PSo18UIFocusEnvironment", "counter"]
+- ["PSo18UIFocusEnvironment", "currentsum"]
+- !private ["PSo18UIFocusEnvironment", "hidden"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "numberinputfield"]
+- ["PSo18UIFocusEnvironment", "onclickaddbutton"]
+- ["PSo18UIFocusEnvironment", "onclickplaybutton"]
+- ["PSo18UIFocusEnvironment", "playbutton"]
+- ["PSo18UIFocusEnvironment", "startingvalue"]
+- ["PSo18UIFocusEnvironment", "sumdisplay"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "timestomultiply"]
+- ["PSo18UIFocusEnvironment", "updatinglabel"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIImageView", "hidden"]
+- !private ["PSo10UIKeyInput", "hidden"]
+- !private ["PSo10UIKeyInput", "text"]
+- !private ["CSo7UILabel", "hidden"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UITextField"]
+- ["CSo11UIResponder", "addbutton"]
+- ["CSo11UIResponder", "applogo"]
+- ["CSo11UIResponder", "apprestart"]
+- ["CSo11UIResponder", "counter"]
+- ["CSo11UIResponder", "currentsum"]
+- !private ["CSo11UIResponder", "hidden"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "numberinputfield"]
+- ["CSo11UIResponder", "onclickaddbutton"]
+- ["CSo11UIResponder", "onclickplaybutton"]
+- ["CSo11UIResponder", "playbutton"]
+- ["CSo11UIResponder", "startingvalue"]
+- ["CSo11UIResponder", "sumdisplay"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "timestomultiply"]
+- ["CSo11UIResponder", "updatinglabel"]
+- !private ["PSo16UIStateRestoring", "Int"]
+- ["PSo16UIStateRestoring", "addbutton"]
+- ["PSo16UIStateRestoring", "applogo"]
+- ["PSo16UIStateRestoring", "apprestart"]
+- ["PSo16UIStateRestoring", "counter"]
+- ["PSo16UIStateRestoring", "currentsum"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "numberinputfield"]
+- ["PSo16UIStateRestoring", "onclickaddbutton"]
+- ["PSo16UIStateRestoring", "onclickplaybutton"]
+- ["PSo16UIStateRestoring", "playbutton"]
+- ["PSo16UIStateRestoring", "startingvalue"]
+- ["PSo16UIStateRestoring", "sumdisplay"]
+- ["PSo16UIStateRestoring", "timestomultiply"]
+- ["PSo16UIStateRestoring", "updatinglabel"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITextField", "hidden"]
+- !private ["CSo11UITextField", "text"]
+- !private ["PSo11UITextInput", "hidden"]
+- !private ["PSo11UITextInput", "text"]
+- !private ["PSo17UITextInputTraits", "hidden"]
+- !private ["PSo17UITextInputTraits", "text"]
+- !private ["PSo18UITraitEnvironment", "Int"]
+- ["PSo18UITraitEnvironment", "addbutton"]
+- ["PSo18UITraitEnvironment", "applogo"]
+- ["PSo18UITraitEnvironment", "apprestart"]
+- ["PSo18UITraitEnvironment", "counter"]
+- ["PSo18UITraitEnvironment", "currentsum"]
+- !private ["PSo18UITraitEnvironment", "hidden"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "numberinputfield"]
+- ["PSo18UITraitEnvironment", "onclickaddbutton"]
+- ["PSo18UITraitEnvironment", "onclickplaybutton"]
+- ["PSo18UITraitEnvironment", "playbutton"]
+- ["PSo18UITraitEnvironment", "startingvalue"]
+- ["PSo18UITraitEnvironment", "sumdisplay"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "timestomultiply"]
+- ["PSo18UITraitEnvironment", "updatinglabel"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "hidden"]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "addbutton"]
+- ["CSo16UIViewController", "applogo"]
+- ["CSo16UIViewController", "apprestart"]
+- ["CSo16UIViewController", "counter"]
+- ["CSo16UIViewController", "currentsum"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "numberinputfield"]
+- ["CSo16UIViewController", "onclickaddbutton"]
+- ["CSo16UIViewController", "onclickplaybutton"]
+- ["CSo16UIViewController", "playbutton"]
+- ["CSo16UIViewController", "startingvalue"]
+- ["CSo16UIViewController", "sumdisplay"]
+- ["CSo16UIViewController", "timestomultiply"]
+- ["CSo16UIViewController", "updatinglabel"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- ["C24AdditionToMultiplication14ViewController", "Int"]
+- ["C24AdditionToMultiplication14ViewController", "String"]
+- ["C24AdditionToMultiplication14ViewController", "UIButton"]
+- ["C24AdditionToMultiplication14ViewController", "UIImageView"]
+- ["C24AdditionToMultiplication14ViewController", "UILabel"]
+- ["C24AdditionToMultiplication14ViewController", "UITextField"]
+- ["C24AdditionToMultiplication14ViewController", "addbutton"]
+- ["C24AdditionToMultiplication14ViewController", "applogo"]
+- ["C24AdditionToMultiplication14ViewController", "apprestart"]
+- ["C24AdditionToMultiplication14ViewController", "counter"]
+- ["C24AdditionToMultiplication14ViewController", "currentsum"]
+- ["C24AdditionToMultiplication14ViewController", "deinit"]
+- ["C24AdditionToMultiplication14ViewController", "init"]
+- ["C24AdditionToMultiplication14ViewController", "numberinputfield"]
+- ["C24AdditionToMultiplication14ViewController", "onclickaddbutton"]
+- ["C24AdditionToMultiplication14ViewController", "onclickplaybutton"]
+- ["C24AdditionToMultiplication14ViewController", "playbutton"]
+- ["C24AdditionToMultiplication14ViewController", "startingvalue"]
+- ["C24AdditionToMultiplication14ViewController", "sumdisplay"]
+- ["C24AdditionToMultiplication14ViewController", "timestomultiply"]
+- ["C24AdditionToMultiplication14ViewController", "updatinglabel"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "init"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps22_IntegerArithmeticType", "init"]
+- !private ["Ps12_IntegerType", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps22_RandomAccessAmbiguity", "init"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "hidden"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps12_Reflectable", "text"]
+- !private ["Ps18_SignedIntegerType", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- !private "Ps16ForwardIndexType"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Sq"
+- !private "Ps16OutputStreamType"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Streamable"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "CSo11UIImageView"
+- !private "PSo10UIKeyInput"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITextField"
+- !private "PSo11UITextInput"
+- !private "PSo17UITextInputTraits"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- "C24AdditionToMultiplication14ViewController"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Vs26_OptionalNilComparisonType"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "5077073e8bfc30863599671a73900102"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "312232965a38a8890fd66f8ca772793c"
+build_time: [520877213, 604385000]
+inputs:
+  "/Users/shrijanaryal/Documents/Ios development/AdditionToMultiplication/AdditionToMultiplication/ViewController.swift": [520877212, 0]
+  "/Users/shrijanaryal/Documents/Ios development/AdditionToMultiplication/AdditionToMultiplication/AppDelegate.swift": [520840443, 0]
